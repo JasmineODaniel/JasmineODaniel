@@ -1,8 +1,8 @@
-<h1 align="center">Jasmine Daniel — UX Engineer</h1>
+<h1 align="center">Jasmine Daniel</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code;Creative+Technologist" 
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code" 
   />
 </p>
 
