@@ -1,7 +1,9 @@
-<h1 align="center">Jasmine Daniel</h1>
+<h1 align="center">Jasmine Daniel — UX Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=600&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code;Creative+Technologist" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code;Creative+Technologist" 
+  />
 </p>
 
 <br/>
@@ -25,32 +27,32 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 ## Tech Stack
 
-<!-- LANGUAGE BOXES -->
 <div align="center">
 
-  <!-- Row 1 -->
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
-  <br/>
-
-  <!-- Row 2 -->
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=0EA5E9" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
 <br/>
- 
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&border_radius=8" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&border_radius=8" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&border_radius=8" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&border_radius=8" 
+    height="170"
+  />
 </div>
 
 <br/>
@@ -58,7 +60,19 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 ## Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&border_radius=8"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&border_radius=8" 
+  />
+</div>
+
+<br/>
+
+## Achievements & Trophies
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" 
+  />
 </div>
 
 <br/>
