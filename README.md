@@ -46,11 +46,11 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&border_radius=8" 
+    src="https://github-readme-stats.vercel.app/api?username=JasmineODaniel&show_icons=true&theme=dark&border_radius=8" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&border_radius=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=dark&border_radius=8" 
     height="170"
   />
 </div>
@@ -61,7 +61,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&border_radius=8" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JasmineODaniel&theme=dark&border_radius=8" 
   />
 </div>
 
@@ -71,7 +71,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=JasmineODaniel&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" 
   />
 </div>
 
