@@ -76,7 +76,8 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 </div>
 
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=JasmineODaniel&color=blue&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=JasmineODaniel&style=for-the-badge" alt="Profile views"/>
+
 
 
 
