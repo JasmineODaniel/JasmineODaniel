@@ -76,6 +76,8 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 </div>
 
 <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=JasmineODaniel&color=blue&style=for-the-badge)
+
 
 ## Philosophy
 
