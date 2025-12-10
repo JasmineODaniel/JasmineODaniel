@@ -79,6 +79,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 ![Profile Views](https://komarev.com/ghpvc/?username=JasmineODaniel&color=blue&style=for-the-badge)
 
 
+
 ## Philosophy
 
 > I explore the space between creativity and logic.  
