@@ -74,6 +74,11 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
     src="https://github-profile-trophy.vercel.app/?username=JasmineODaniel&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" 
   />
 </div>
+### 🛠️ Languages I Use
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact)
+
+
 
 <br/>
 
