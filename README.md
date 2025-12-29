@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code" 
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=UX+Engineer;Frontend+Developer;Design+Meets+Code"  
   />
 </p>
 
