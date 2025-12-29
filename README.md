@@ -78,9 +78,11 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 
 <br/>
-### 🛠️ Top Languages I Use
+## 🛠️ Top Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight&hide=html,css,md" />
+</p>
 
 
 ## Philosophy
