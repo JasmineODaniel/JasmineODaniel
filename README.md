@@ -84,9 +84,3 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight&hide=html,css,md" />
 </p>
 
-
-## Philosophy
-
-> I explore the space between creativity and logic.  
-> I design systems, not screens.  
-> I build experiences that communicate, guide, and feel alive.
