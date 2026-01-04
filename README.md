@@ -19,7 +19,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 | Design | Engineering | Thinking |
 |--------|-------------|----------|
-| Craft digital experiences that tell stories | Build intuitive and thoughtful interfaces | Systems-first approach — everything connects |
+| Craft digital experiences that tell stories | Build intuitive and thoughtful interfaces | Systems-first approach... everything connects |
 | Create structured visual systems | Implement pixel-accurate UIs | Merge creativity with logic |
 | Translate ideas into clear design languages | Use React, TypeScript, Next.js | Design processes that scale |
 
