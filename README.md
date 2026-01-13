@@ -42,48 +42,33 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 <br/>
 
-## GitHub Stats
+## GitHub Stats & Streaks
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JasmineODaniel&show_icons=true&theme=dark&border_radius=8" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=dark&border_radius=8" 
-    height="170"
-  />
+
+  <!-- Main Stats Card -->
+  <a href="https://github.com/JasmineODaniel">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=JasmineODaniel&show_icons=true&theme=dark&border_radius=8"
+      alt="Jasmine's GitHub Stats"
+    />
+  </a>
+
+  <!-- Streak Card -->
+  <a href="https://github.com/JasmineODaniel">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=JasmineODaniel&theme=dark&border_radius=8"
+      alt="Jasmine's GitHub Streak"
+    />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/JasmineODaniel">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=JasmineODaniel&layout=compact&theme=tokyonight&border_radius=8"
+      alt="Top Languages"
+    />
+  </a>
+
 </div>
 
----
-
-## Contributions / Streaks
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=JasmineODaniel&theme=dark&border_radius=8"
-    alt="GitHub Streak Stats"
-  />
-</div>
-
----
-
-## Achievements & Trophies
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=JasmineODaniel&theme=radical&no-frame=false&row=1&column=6" 
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
-## 🛠️ Top Languages I Use
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight&hide=html,css,md" 
-    alt="Top Languages"
-  />
-</div>
