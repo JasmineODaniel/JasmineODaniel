@@ -55,32 +55,35 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
   />
 </div>
 
-<br/>
+---
 
-## Contributions
+## Contributions / Streaks
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JasmineODaniel&theme=dark&border_radius=8" 
+    src="https://streak-stats.demolab.com?user=JasmineODaniel&theme=dark&border_radius=8"
+    alt="GitHub Streak Stats"
   />
 </div>
 
-<br/>
+---
 
 ## Achievements & Trophies
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=JasmineODaniel&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=JasmineODaniel&theme=radical&no-frame=false&row=1&column=6" 
+    alt="GitHub Trophies"
   />
 </div>
 
+---
 
-
-<br/>
 ## 🛠️ Top Languages I Use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight&hide=html,css,md" />
-</p>
-
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineODaniel&layout=compact&theme=tokyonight&hide=html,css,md" 
+    alt="Top Languages"
+  />
+</div>
