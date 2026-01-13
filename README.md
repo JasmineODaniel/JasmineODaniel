@@ -71,7 +71,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
   </a>
 
 </div>
-## 📬 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/JasmineODaniel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -87,18 +87,10 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
   </a>
 </p>
 
-## 💻 Featured Projects
-<p align="center">
-  <a href="https://github.com/JasmineODaniel/Project1">
-    <img src="https://img.shields.io/badge/Project1-React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  </a>
-  <a href="https://github.com/JasmineODaniel/Project2">
-    <img src="https://img.shields.io/badge/Project2-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JasmineODaniel/Project3">
-    <img src="https://img.shields.io/badge/Project3-Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=0EA5E9"/>
-  </a>
-</p>
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
 
