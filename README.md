@@ -47,12 +47,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 <div align="center">
 
   <!-- Main Stats Card -->
-  <a href="https://github.com/JasmineODaniel">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=JasmineODaniel&show_icons=true&theme=dark&border_radius=8"
-      alt="Jasmine's GitHub Stats"
-    />
-  </a>
+ 
 
   <!-- Streak Card -->
   <a href="https://github.com/JasmineODaniel">
