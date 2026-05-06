@@ -68,4 +68,4 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JasmineODaniel&label=Profile%20Views&color=0e75b6&style=flat)
+
