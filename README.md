@@ -17,7 +17,7 @@ My process blends system thinking, user empathy, and pixel-perfect implementatio
 <br/>
 
 ## What I Do
-
+ 
 | Design | Engineering | Thinking |
 |--------|-------------|----------|
 | Craft digital experiences that tell stories | Build intuitive and thoughtful interfaces | Systems-first approach... everything connects |
